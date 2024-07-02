@@ -1,0 +1,8 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+.nav-item:hover {
+  background-color: grey;
+}
+
